@@ -1,0 +1,2 @@
+# sentiment analysis is a natural language processing technique that identifies the polarity of a given text, such as positivi, negative or neutral.
+# analyzing customer feedback, social media posts, product reviews and more.
